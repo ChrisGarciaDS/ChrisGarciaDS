@@ -1,9 +1,6 @@
 ### 👋 Hi, I’m Chris Garcia
 
-
-- 👀 I’m currently digging more into how data science can help evolve healthcare
-- 🏥 I'm also currently working on Coursera's AI in Healthcare Specialization
-- 🌱 I’m will be graduating from with my MS in Applied Data Science this Summer
+- 🌱 I will be graduating from with my MS in Applied Data Science this coming Fall
 - 💞️ I’m looking to collaborate on various projects that will help build my skillset as well as my knowledge in the field
 - 🥅 2023 goals:
       - graduate
