@@ -10,6 +10,7 @@
 
 - ⚡️ fun fact: I love collecting Marvel, Star Wars, as well as video game memorabilia 
 - 📫 How to reach me: https://www.linkedin.com/in/christopher-garcia-197aa518a/
+- Website: https://cgarcia160.wixsite.com/christophergarcia
 
 <!---
 ChrisGarciaDS/ChrisGarciaDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
