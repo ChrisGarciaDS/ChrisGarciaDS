@@ -1,16 +1,15 @@
 ### 👋 Hi, I’m Chris Garcia
 
-- 🌱 I will be graduating from with my MS in Applied Data Science this coming Fall
+- 🌱 I graduated with an MS in Applied Data Science Fall 2023
 - 💞️ I’m looking to collaborate on various projects that will help build my skillset as well as my knowledge in the field
-- 🥅 2023 goals:
-      - graduate
+- 🥅 2024 goals:
+      - travel more
       - spend more time outdoors
-      - improve health
+      - improve health & wellness
       - learn more
 
 - ⚡️ fun fact: I love collecting Marvel, Star Wars, as well as video game memorabilia 
 - 📫 How to reach me: https://www.linkedin.com/in/christopher-garcia-197aa518a/
-- Website: https://chrisgarcia845.wixsite.com/my-site
 
 <!---
 ChrisGarciaDS/ChrisGarciaDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
