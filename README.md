@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Chris Garcia
 
 - 🌱 I graduated with an MS in Applied Data Science Fall 2023
-- 💞️ I’m looking to collaborate on various projects that will help build my skillset as well as my knowledge in the field
+- 💞️ I’m looking to collaborate on various projects that will help build my skillset as well as my knowledge in the field of healthcare.
 - 🥅 2024 goals:
       - travel more
       - spend more time outdoors
